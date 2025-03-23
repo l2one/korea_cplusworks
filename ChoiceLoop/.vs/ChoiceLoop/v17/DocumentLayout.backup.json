@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\",
+  "WorkspaceRootPath": "C:\\CplusWorks\\ChoiceLoop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\forEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\forEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\forEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\IflesEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\whileEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\whileEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\WhileEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\WhileEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\SwitchCaseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\SwitchCaseEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\IflesEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\whileEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\whileEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\KeyRepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\WhileEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\WhileEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{292003AD-9A92-4ECA-A59C-4E2C6F201109}|ChoiceLoop\\ChoiceLoop.vcxproj|solutionrelative:ChoiceLoop\\SwitchCaseEx2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,35 +48,34 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "forEx1.cpp",
-              "DocumentMoniker": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\forEx1.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\forEx1.cpp",
               "RelativeDocumentMoniker": "ChoiceLoop\\forEx1.cpp",
-              "ToolTip": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\forEx1.cpp*",
-              "RelativeToolTip": "ChoiceLoop\\forEx1.cpp*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\forEx1.cpp",
+              "RelativeToolTip": "ChoiceLoop\\forEx1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-23T01:43:29.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "KeyRepeat.cpp",
-              "DocumentMoniker": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\KeyRepeat.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\KeyRepeat.cpp",
               "RelativeDocumentMoniker": "ChoiceLoop\\KeyRepeat.cpp",
-              "ToolTip": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\KeyRepeat.cpp",
+              "ToolTip": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\KeyRepeat.cpp",
               "RelativeToolTip": "ChoiceLoop\\KeyRepeat.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T01:28:11.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T01:28:11.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "whileEx2.cpp",
-              "DocumentMoniker": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\whileEx2.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\whileEx2.cpp",
               "RelativeDocumentMoniker": "ChoiceLoop\\whileEx2.cpp",
-              "ToolTip": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\whileEx2.cpp",
+              "ToolTip": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\whileEx2.cpp",
               "RelativeToolTip": "ChoiceLoop\\whileEx2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -85,37 +84,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "WhileEx1.cpp",
-              "DocumentMoniker": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\WhileEx1.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\WhileEx1.cpp",
               "RelativeDocumentMoniker": "ChoiceLoop\\WhileEx1.cpp",
-              "ToolTip": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\WhileEx1.cpp",
+              "ToolTip": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\WhileEx1.cpp",
               "RelativeToolTip": "ChoiceLoop\\WhileEx1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T01:05:21.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T01:05:21.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SwitchCaseEx2.cpp",
-              "DocumentMoniker": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx2.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx2.cpp",
               "RelativeDocumentMoniker": "ChoiceLoop\\SwitchCaseEx2.cpp",
-              "ToolTip": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx2.cpp",
+              "ToolTip": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx2.cpp",
               "RelativeToolTip": "ChoiceLoop\\SwitchCaseEx2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T00:46:14.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T00:46:14.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "SwitchCaseEx1.cpp",
-              "DocumentMoniker": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx1.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx1.cpp",
               "RelativeDocumentMoniker": "ChoiceLoop\\SwitchCaseEx1.cpp",
-              "ToolTip": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx1.cpp",
+              "ToolTip": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\SwitchCaseEx1.cpp",
               "RelativeToolTip": "ChoiceLoop\\SwitchCaseEx1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -124,11 +121,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "IflesEx2.cpp",
-              "DocumentMoniker": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx2.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx2.cpp",
               "RelativeDocumentMoniker": "ChoiceLoop\\IflesEx2.cpp",
-              "ToolTip": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx2.cpp",
+              "ToolTip": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx2.cpp",
               "RelativeToolTip": "ChoiceLoop\\IflesEx2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -139,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IflesEx.cpp",
-              "DocumentMoniker": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx.cpp",
               "RelativeDocumentMoniker": "ChoiceLoop\\IflesEx.cpp",
-              "ToolTip": "C:\\korea_it_cplus\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx.cpp",
+              "ToolTip": "C:\\CplusWorks\\ChoiceLoop\\ChoiceLoop\\IflesEx.cpp",
               "RelativeToolTip": "ChoiceLoop\\IflesEx.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAowCYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
