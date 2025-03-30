@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CplusWorks\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4B0297-EC1A-4592-BCF8-0E415E6EF827}|Practice\\Practice.vcxproj|C:\\CplusWorks\\Practice\\Practice\\ArrayText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E4B0297-EC1A-4592-BCF8-0E415E6EF827}|Practice\\Practice.vcxproj|solutionrelative:Practice\\ArrayText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4B0297-EC1A-4592-BCF8-0E415E6EF827}|Practice\\Practice.vcxproj|C:\\CplusWorks\\Practice\\Practice\\Set.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E4B0297-EC1A-4592-BCF8-0E415E6EF827}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Set.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayText.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\Practice\\Practice\\ArrayText.cpp",
+              "RelativeDocumentMoniker": "Practice\\ArrayText.cpp",
+              "ToolTip": "C:\\CplusWorks\\Practice\\Practice\\ArrayText.cpp",
+              "RelativeToolTip": "Practice\\ArrayText.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T02:09:54.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Set.cpp",
+              "DocumentMoniker": "C:\\CplusWorks\\Practice\\Practice\\Set.cpp",
+              "RelativeDocumentMoniker": "Practice\\Set.cpp",
+              "ToolTip": "C:\\CplusWorks\\Practice\\Practice\\Set.cpp",
+              "RelativeToolTip": "Practice\\Set.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T02:08:28.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
